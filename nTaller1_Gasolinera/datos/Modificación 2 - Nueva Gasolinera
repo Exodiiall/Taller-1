@@ -1,0 +1,13 @@
+tipo:CORRIENTE:15700:60.0
+tipo:GAS NATURAL:11100:200.0
+tipo:DIESEL:9300:120.0
+tipo:EXTRA:10000:100.0
+surtidor:Andres:CORRIENTE:0.0:GAS NATURAL:0.0:DIESEL:0.0:EXTRA:0.0
+surtidor:Juan Esteban:CORRIENTE:0.0:GAS NATURAL:0.0:DIESEL:0.0:EXTRA:0.0
+surtidor:Andres:CORRIENTE:0.0:GAS NATURAL:0.0:DIESEL:0.0:EXTRA:0.0
+surtidor:Maria Catalina:CORRIENTE:0.0:GAS NATURAL:0.0:DIESEL:0.0:EXTRA:0.0
+empleado:Andres:0
+empleado:Juan Esteban:0
+empleado:Maria Catalina:0
+empleado:Nicolas:0
+empleado:Andrea:0
